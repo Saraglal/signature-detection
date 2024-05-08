@@ -5,7 +5,6 @@ This project utilizes YOLOv8, an advanced object detection algorithm, to detect 
 1. Clone the repository:
     ```bash
     git clone https://github.com/Saraglal/signature-detection.git
-    cd signature-detection
     ```
 
 2. Install the required dependencies:
